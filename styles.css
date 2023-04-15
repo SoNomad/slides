@@ -36,7 +36,7 @@ body::before {
 }
 
 .slide {
-  box-shadow: -2px 0px 35px -6px rgba(255, 66, 66, 0.75);
+  box-shadow: -2px 0px 35px 10px rgba(255, 80, 246, 0.363);
   height: 80vh;
   flex: 1;
   border-radius: 20px;
